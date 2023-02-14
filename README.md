@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukajincharadze
 - 👀 I’m interested in coding / programming 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, Mobile Dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lukajinchara@gmail.com
 
