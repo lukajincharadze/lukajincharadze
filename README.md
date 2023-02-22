@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm @lukajincharadze</h1>
 <h3 align="center">Junior WebDeveloper specializing in frontend</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukajincharadze&label=Profile%20views&color=0e75b6&style=flat" alt="lukajincharadze" /> </p>
 
 - 🔭 I’m currently working on **mobile application's**
 
@@ -40,5 +39,9 @@
 
 <br><br>
 <p><a href="https://ko-fi.com/lukajincharadze"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="lukajincharadze" /></a></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukajincharadze&label=Profile%20views&color=0e75b6&style=flat" alt="lukajincharadze" /> </p>
+
     
 
