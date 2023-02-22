@@ -1,3 +1,5 @@
+<img src="https://cdn.pixabay.com/photo/2015/09/17/17/25/code-944499__340.jpg" alt="1">
+
 <h1 align="center">Hi 👋, I'm lukajincharadze</h1>
 <h3 align="center">Junior WebDeveloper specializing in frontend</h3>
 
