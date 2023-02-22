@@ -35,12 +35,14 @@
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukajincharadze&show_icons=true&locale=en&layout=compact" alt="lukajincharadze" /></p><br><br>
+
+<br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukajincharadze&show_icons=true&locale=en&layout=compact" alt="lukajincharadze" /></p>
 
 <br><br>
 <p><a href="https://ko-fi.com/lukajincharadze"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="lukajincharadze" /></a></p>
 
-
+<br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukajincharadze&label=Profile%20views&color=0e75b6&style=flat" alt="lukajincharadze" /> </p>
 
     
