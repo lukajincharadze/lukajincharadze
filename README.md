@@ -1,4 +1,4 @@
-![technology-1283624_960_720](https://user-images.githubusercontent.com/116554878/220743533-c9928c65-4e4c-4add-874f-7c6f94a87a53.jpg)
+![bgIMG](https://user-images.githubusercontent.com/116554878/220743917-7e6e8c3a-2090-4261-8ca6-a1001b2e0f72.jpg)
 
 
 <h1 align="center">Hi 👋, I'm lukajincharadze</h1>
