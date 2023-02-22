@@ -1,4 +1,5 @@
-<img src="https://cdn.pixabay.com/photo/2015/09/17/17/25/code-944499__340.jpg" alt="1">
+![technology-1283624_960_720](https://user-images.githubusercontent.com/116554878/220743533-c9928c65-4e4c-4add-874f-7c6f94a87a53.jpg)
+
 
 <h1 align="center">Hi 👋, I'm lukajincharadze</h1>
 <h3 align="center">Junior WebDeveloper specializing in frontend</h3>
