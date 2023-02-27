@@ -6,9 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukajincharadze&label=Profile%20views&color=0e75b6&style=flat" alt="lukajincharadze" /> </p>
 
-- 🔭 I’m currently working on **mobile application's**
-
-- 🌱 I’m currently learning **Dart/Flutter**
+- 🌱 I’m currently learning **dart html css**
 
 - 👀 I’m interested **in coding / programming**
 
