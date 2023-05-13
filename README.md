@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm lukajincharadze</h1>
 <h3 align="center">Junior WebDeveloper specializing in frontend</h3>
- 
+
  
 ![bgIMG](https://user-images.githubusercontent.com/116554878/220743917-7e6e8c3a-2090-4261-8ca6-a1001b2e0f72.jpg)
 
