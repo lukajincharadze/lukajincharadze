@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm lukajincharadze</h1>
+<h1 align="center">Hi 👋, I'm luka jincharadze</h1>
 <h3 align="center">Junior WebDeveloper specializing in frontend</h3>
  
 
