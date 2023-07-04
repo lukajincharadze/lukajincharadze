@@ -4,15 +4,15 @@
  
 ![bgIMG](https://user-images.githubusercontent.com/116554878/220743917-7e6e8c3a-2090-4261-8ca6-a1001b2e0f72.jpg)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lukajincharadze&label=Profile%20views&color=0e75b6&style=flat" alt="lukajincharadze" /> </p>
-<p text-align='center>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lukajincharadze&label=Profile%20views&color=0e75b6&style=flat" alt="lukajincharadze" /> 
 - 🌱 I’m currently learning **React**
 
 - 👀 I’m interested **in coding / programming**
 
 - 📫 How to reach me **lukajinchara@gmail.com**
-  
+  </p>
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.facebook.com/jincharadze.luka.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jincharadze.luka.3" height="30" width="40" /></a>
