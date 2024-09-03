@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lukajincharadze&label=Profile%20views&color=0e75b6&style=flat" alt="lukajincharadze" />   </p>
 
- - 🌱 I’m currently learning **Angular**
+ - 🌱 I’m currently working using **Angular**
 
 - 👀 I’m interested **in coding / programming**
 
