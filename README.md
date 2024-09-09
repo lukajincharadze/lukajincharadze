@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luka Jincharadze</h1>
 <h3 align="center">Junior WebDeveloper specializing in frontend</h3>
-  
+   
 ![cover-img](https://github.com/lukajincharadze/lukajincharadze/assets/116554878/369fd54c-b0f0-4e23-a8a3-8c5de134fe6b)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lukajincharadze&label=Profile%20views&color=0e75b6&style=flat" alt="lukajincharadze" />   </p>
